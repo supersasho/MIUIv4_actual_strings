@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_fm_not_played">Unable to turn on FM radio</string>
+    <string name="headset_disconnect">Earphone removed. Radio will be turned off</string>
+    <string name="toast_tap_to_rename">Tap frequency to rename</string>
+    <string name="toast_channel_invalid">Invalid frequency</string>
+    <string name="toast_tune" formatted="false">Tuning to %1$d.%2$d MHz...</string>
+    <string name="toast_tap_to_remove">Tap frequency to remove</string>
+    <string name="toast_busy_tunning">Busy. Tuning in...</string>
+    <string name="toast_no_fav_channel">No favorite channels saved</string>
+    <string name="toast_already_scan">Already scanning...</string>
+    <string name="toast_rename_error">Unable to rename</string>
+    <string name="toast_already_playing" formatted="false">Frequency %1$d.%2$d MHz is now playing</string>
+    <string name="dialog_cancel_scan">Cancelling...</string>
+    <string name="dialog_scan">Scanning...</string>
+    <string name="alarm_text1">FM radio will be off after %d minutes</string>
+    <string name="alarm_text2">FM radio will be off after 1 hour</string>
+    <string name="alarm_text3">FM radio will be off after %d hours</string>
+    <string name="toast_already_added">This frequency already exists</string>
+    <string name="dialog_channel_found" formatted="false">%1$d.%2$d MHz station found. Total number of stations found: %3$d</string>
+    <string name="dialog_channel_one_found" formatted="false">%1$d.%2$d MHz station found. Total number of stations found: 1</string>
+    <string name="dialog_channel_found_south_region" formatted="false">%1$s MHz channel found. Total %2$d channels are found</string>
+    <string name="dialog_channel_one_found_south_region">%s MHz channel found. Total 1 channel is found</string>
+    <string name="toast_channel_found">%d channels found while scanning</string>
+    <string name="toast_one_channel_found">1 channel found while scanning</string>
+    <string name="toast_on_alert">Turn FM radio on</string>
+    <string name="app_name">FM radio</string>
+    <string name="scan">Scan</string>
+    <string name="remove">Remove</string>
+    <string name="settings">Settings</string>
+    <string name="allchannels">All stations</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="southeast_asia_region">Southeast Asia</string>
+    <string name="rename">Rename</string>
+    <string name="rename_text">Enter name</string>
+    <string name="done">Done</string>
+    <string name="replace">Replace</string>
+    <string name="setting_region">Region</string>
+    <string name="setting_backgroud_playing">Background playing</string>
+    <string name="setting_sationid">Show station ID</string>
+    <string name="setting_af">Alternative frequency</string>
+    <string name="setting_autooff">FM auto off</string>
+    <string name="setting_bgplaying_summary">FM radio will play in background after closing application</string>
+    <string name="setting_stationid_summary">Station information will be shown</string>
+    <string name="setting_af_summary">Turn on/off alternative frequency</string>
+    <string name="setting_europe">Europe</string>
+    <string name="setting_korea">Korea</string>
+    <string name="setting_japan">Japan</string>
+    <string name="setting_usa">USA</string>
+    <string name="setting_off">Off</string>
+    <string name="setting_30min">After 30 min</string>
+    <string name="setting_hour">After 1 hour</string>
+    <string name="setting_2hour">After 2 hours</string>
+    <string name="save">Save</string>
+    <string name="toast_earphone_not_connected">Earphone not connected</string>
+    <string name="dialog_autoscan">Auto scan</string>
+    <string name="toast_initial_access">Starting auto scan...</string>
+    <string name="scan_result">Scan result</string>
+    <string name="rename_channel">Rename</string>
+    <string name="alert">Alerts</string>
+    <string name="fav_channel">Favorites</string>
+    <string name="menu_refersh_all">All channels</string>
+    <string name="menu_refresh">Retaining favorites</string>
+    <string name="number_30">30</string>
+    <string name="number_2">2</string>
+    <string name="alrm_30_min_past">Auto FM radio off. %d min passed</string>
+    <string name="alrm_1_hr_past">Auto FM radio off. 1 hour passed</string>
+    <string name="alrm_2_hrs_past">Auto FM radio off. %d hour passed</string>
+    <string name="scan_channels">Scan</string>
+    <string name="selectall">Select all</string>
+    <string name="no_channel_selected">Select at least one item</string>
+    <string name="toast_airplane_mode">Unable to use FM radio when Offline profile is active</string>
+    <string name="dialog_tts_confirm">Install voice data required for speech synthesis</string>
+    <string name="speaker">Speaker</string>
+    <string name="af_switching">AF switching</string>
+    <string name="af_switching_msg">AF switching is in progress. Press Back to cancel</string>
+    <string name="toast_battery_low">Unable to launch application. Low battery</string>
+    <string name="toast_af_success" formatted="false">AF switched and found %1$d.%2$d MHz frequency</string>
+    <string name="toast_disabled">%s disabled</string>
+    <string name="toast_no_channel_found">No channel found</string>
+    <string name="toast_unavailable_in_tvout_mode">Unavailable in TV-out mode</string>
+    <string name="seeking">Searching...</string>
+    <string name="via_earphone">Via earphones</string>
+    <string name="via_speaker">Via speaker</string>
+    <string name="normal_frequency">Normal frequency</string>
+    <string name="audio_shock_warning">Loud music may harm your hearing if you listen to it for a long time</string>
+    <string name="channels">All channels</string>
+    <string name="record">Record</string>
+    <string name="recordingfile">Go to recording files</string>
+    <string name="europe_region">Europe</string>
+    <string name="usa_region">USA</string>
+    <string name="mhz">MHz</string>
+    <string name="setting_autooff_summary">FM radio auto on/off</string>
+    <string name="setting_setregion">Select regions</string>
+    <string name="toast_channel_empty">No channel</string>
+    <string name="number_1">1</string>
+    <string name="toast_af_fail">AF not found</string>
+    <string name="menu_edit_fav_list">Edit favorites list</string>
+    <string name="mute">Mute</string>
+    <string name="setting_thailand">Thailand</string>
+</resources>
